@@ -1,2 +1,1 @@
-# GazeDetection
-Personal Project - OpenCV 
+# STILL UNDER DEV
